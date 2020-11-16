@@ -6,14 +6,7 @@ import "firebase/firestore";
 
 // Your web app's Firebase configuration
 let firebaseConfig = {
-  // apiKey: "AIzaSyAjkvzuZxgzS7JIokzleMalttncOWDxC5Y",
-  // authDomain: "e-commerce-a35a3.firebaseapp.com",
-  // databaseURL: "https://e-commerce-a35a3.firebaseio.com",
-  // projectId: "e-commerce-a35a3",
-  // storageBucket: "e-commerce-a35a3.appspot.com",
-  // messagingSenderId: "852004946314",
-  // appId: "1:852004946314:web:5f52ef4a97b6bff8b1c873",
-  // measurementId: "G-MY27448CL6"
+  
   apiKey: "AIzaSyAYlvi49_-4QKCKrlExnW4a_T4bUxayUgU",
     authDomain: "blogapp-hv.firebaseapp.com",
     databaseURL: "https://blogapp-hv.firebaseio.com",
